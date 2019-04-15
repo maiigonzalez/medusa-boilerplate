@@ -1,12 +1,12 @@
 {
-  "name": "medusa_boilerplate",
+  "name": "medusa-boilerplate",
   "version": "1.0.0",
-  "description": "Complete boilerplate with React, PostCSS, ITCSS, StyledComponents",
+  "description": "Complete boilerplate with React, PostCSS, ITCSS, StyledComponents, AtomicDesign",
   "main": "src/app.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/maiigonzalez/frontend-boilerplate.git"
+    "url": "https://github.com/maiigonzalez/medusa-boilerplate.git"
   },
   "author": "Maii González",
   "keywords": [
